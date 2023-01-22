@@ -1,0 +1,1 @@
+{"version":3,"sources":["style-pages.scss","style-pages.css"],"names":[],"mappings":"AAEA,GACI,SCDJ","file":"../style-pages.css","sourcesContent":["@import './global';\n\nh1{\n    color: red;\n}","h1 {\n  color: red;\n}"]}
